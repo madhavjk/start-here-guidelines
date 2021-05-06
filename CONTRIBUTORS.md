@@ -40,6 +40,8 @@
 
 - [@Amoghtech](https://github.com/Amoghtech)
 
+- [@madhavjk](https://github.com/madhavjk)
+
 - [@CodesOfAnurag](https://github.com/CodesOfAnurag)
 
 - [@Himanshu](https://github.com/himanshu007-creator)
